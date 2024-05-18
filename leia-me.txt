@@ -1,0 +1,4 @@
+Como inciar o projeto:
+- Abrir o projeto no VS Code;
+- Instalar as dependencias com "npm i"
+- Iniciar o projeto usando "npm start"
